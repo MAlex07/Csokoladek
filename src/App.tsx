@@ -1,6 +1,6 @@
 import Chocolate from './componens/ChocolateCard'
 
-let App = () => {
+const App = () => {
 
   return (
   <>
